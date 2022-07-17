@@ -6,6 +6,24 @@
                 "custom_model_data": 349901
             },
             "model": "christmas:item/christmas_hat"
+        },
+		{
+            "predicate":{
+                "custom_model_data": 349902
+            },
+            "model": "formal:item/tophat"
+        },
+		{
+            "predicate":{
+                "custom_model_data": 349903
+            },
+            "model": "fun:item/scouter"
+        },
+		{
+            "predicate":{
+                "custom_model_data": 349904
+            },
+            "model": "fun:item/partyhat"
         }
     ]
 }
