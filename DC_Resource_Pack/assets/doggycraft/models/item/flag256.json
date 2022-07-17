@@ -2,6 +2,6 @@
     "parent": "item/generated",
 	"texture_size": [256, 256],
     "textures": {
-        "layer0": "doggycraft:item/flag256",
+        "layer0": "doggycraft:item/flag256"
     }
 }
