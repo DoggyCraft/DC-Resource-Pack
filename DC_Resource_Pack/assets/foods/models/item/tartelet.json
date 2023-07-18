@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "texture_size": [128, 128],
+    "textures": {
+        "layer0": "astrosfoods:item/tartelet"
+    }
+}
