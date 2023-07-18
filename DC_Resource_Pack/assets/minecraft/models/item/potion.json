@@ -7,9 +7,9 @@
     "overrides": [
         {
             "predicate":{
-                "custom_model_data": 765801
+                "custom_model_data": 420691
             },
-            "model": "doggycraft:item/beer_glass"
+            "model": "foods:item/beer_glass"
         }
     ]
 }
